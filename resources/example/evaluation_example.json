@@ -1,0 +1,13 @@
+{
+    "my-program-v1": {
+        "coverage": "./my_coverage.pkl",
+        "failing_tests": {
+            "fault-1": "./fault-1-failing-tests",
+            "fault-2": "./fault-2-failing-tests"
+        },
+        "faulty_components": {
+            "fault-1": "./fault-1-faulty-components",
+            "fault-2": "./fault-2-faulty-components"
+        }
+    }
+}
